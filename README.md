@@ -1,16 +1,12 @@
-## Hi there 👋
+Olá! Eu sou Arthur Braga 👋
+Atualmente curso Sistemas de Informação e Segurança Cibernética na UVV. Tenho grande interesse em desenvolvimento de software, segurança digital e banco de dados.
 
-<!--
-**artbragaz/artbragaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tecnologias e Habilidades:
+Linguagens: Java, Python
+Paradigmas: Programação Orientada a Objetos
+Banco de Dados: MySQL
+Desenvolvimento Web: HTML, CSS
+Estou sempre buscando aprender e aprimorar minhas habilidades, explorando novas tecnologias e desafios. Sinta-se à vontade para explorar meus projetos e contribuir!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Entre em contato:
+artbragaz@gmail.com
